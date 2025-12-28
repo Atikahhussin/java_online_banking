@@ -1,4 +1,1 @@
-dekna,deknacantik,hanis,22004282,0146602390,10.0
-atikahhussin,atikah,atikah,011,011,10.0
-atikahh,atikah,atikah,11,0199028,10.0
-s,s,s,1,1,218.0
+test_name,test_user,test_password,123456,0146602390,10.0
