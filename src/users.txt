@@ -1,8 +1,4 @@
-atikah,atikah,atikah,123,0.0,0.0,at,at,at,1,1,6.7676767E7,a,a,a,1,1,1090.0,
-a,a,a,1,1,19.0,
-s,s,s,1,1,218.0,
-d,d,d,2,,0.0,
-n,n,n,8,90,859.0,
-dekna,deknacantik,hanis,22004282,0146602390,10.0,
-atikahhussin,atikah,atikah,011,011,10.0,
+dekna,deknacantik,hanis,22004282,0146602390,10.0
+atikahhussin,atikah,atikah,011,011,10.0
 atikahh,atikah,atikah,11,0199028,10.0
+s,s,s,1,1,218.0
