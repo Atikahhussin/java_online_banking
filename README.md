@@ -45,7 +45,7 @@ Logic:
 
 1.	Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/java_online_banking.git
+git clone https://github.com/Atikahhussin/java_online_banking.git
 
 2.	Navigate to the source directory:
 
